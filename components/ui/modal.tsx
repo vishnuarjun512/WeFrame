@@ -1,8 +1,8 @@
 "use client";
 
 import React from "react";
+import Dialog from "@/components/ui/dialog";
 import {
-  Dialog,
   DialogContent,
   DialogDescription,
   DialogHeader,
